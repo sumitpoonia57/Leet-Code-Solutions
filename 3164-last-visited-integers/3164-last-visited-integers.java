@@ -12,7 +12,6 @@ class Solution {
                    ans.add(store.get(store.size()-k));
                }else{
                    ans.add(-1);
-                   flag=false;
                }
             }
             else{
